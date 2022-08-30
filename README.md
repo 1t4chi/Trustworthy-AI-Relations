@@ -57,6 +57,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 ## OOD Generalization v.s. Privacy
 
 - 2018 CSFS - Privacy risk in machine learning: Analyzing the connection to overfitting
+- 2019 IJCAI - Differentially Private Optimal Transport: Application to Domain Adaptation
 - 2020 ICML - Alleviating privacy attacks via causal learning
 - 2021 - The Connection between Out-of-Distribution Generalization and Privacy of ML Models
 
