@@ -19,29 +19,29 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 ### Difference between Robustness Generalization & Standard Generalization
 - 2018 NIPS - PAC-learning in the presence of evasion adversaries
-- 2019 ICML - Rademacher Complexity for Adversarially Robust Generalization
 - 2018 NIPS - Adversarially Robust Generalization Requires More Data
-- 2020 ICLR - Adversarially Robust Generalization Just Requires More Unlabeled Data
+- 2019 ICML - Rademacher Complexity for Adversarially Robust Generalization
 - 2019 ICML - Adversarial Examples from Computational Constraints
 - 2019 COLT - VC Classes are Adversarially Robustly Learnable, but Only Improperly
+- 2020 ICLR - Adversarially Robust Generalization Just Requires More Unlabeled Data
 
 ### Tradeoff between Robustness & Utility
 - 2016 ICMLA - Are Accuracy and Robustness Correlated?
 - 2018 ECCV - Is Robustness the Cost of Accuracy? A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
 - 2018 ICLR - Towards Deep Learning Models Resistant to Adversarial Attacks
+- 2018 Gilmer - The Relationship Between High-Dimensional Geometry and Adversarial Examples
 - 2019 ICLR - Robustness May Be at Odds with Accuracy
 - 2019 NIPS - Adversarial Examples Are Not Bugs, They Are Features
 - 2019 ICML - Theoretically Principled Trade-off between Robustness and Accuracy
 - 2019 ICML - Adversarial Training Can Hurt Generalization
 - 2019 - Adversarial robustness may be at odds with simplicity
-- 2018 Gilmer - The Relationship Between High-Dimensional Geometry and Adversarial Examples
 - 2019 CVPR - Disentangling Adversarial Robustness and Generalization
 - 2019 ICML - Adversarial Training Can Hurt Generalization
 - 2020 ICML - Understanding and Mitigating the Tradeoff Between Robustness and Accuracy
 - 2020 ICML - More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models
-- 2021 UAI - The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization
 - 2020 COLT - Precise Tradeoffs in Adversarial Training for Linear Regression
 - 2020 NIPS - A Closer Look at Accuracy vs. Robustnes
+- 2021 UAI - The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization
 - 2022 ICML - Robustness and Accuracy Could Be Reconcilable by (Proper) Definition
 
 ## Utility v.s. Privacy
@@ -65,16 +65,16 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 - 2019 Mejia - Robust or Private? Adversarial Training Makes Models More Vulnerable to Privacy Attacks
 - 2019 CCS Song - Privacy Risks of Securing Machine Learning Models against Adversarial Examples
-- 2020 He - Robustness, Privacy, and Generalization of Adversarial Training
-- 2022 Hayes - Trade-offs between membership privacy & adversarially robust learning
-- 2021 Tursynbek - Robustness Threats of Differential Privacy
-- 2021 Boenisch - Gradient Masking and the Underestimated Robustness Threats of Differential Privacy in Deep Learning
-- 2021 Han - Understanding the Interplay between Privacy and Robustness in Federated Learning
 - 2019 ECM-PKDD Pinot - A unified view on differential privacy and robustness to adversarial examples
 - 2019 S&P Lecuyer - Certified Robustness to Adversarial Examples with Differential Privacy
 - 2019 CCS Jia - MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples
 - 2019 IJCAI Phan - Heterogeneous Gaussian Mechanism: Preserving Differential Privacy in Deep Learning with Provable Robustness
 - 2020 ICML Phan - Scalable Differential Privacy with Certified Robustness in Adversarial Learning
+- 2020 He - Robustness, Privacy, and Generalization of Adversarial Training
+- 2021 Han - Understanding the Interplay between Privacy and Robustness in Federated Learning
+- 2021 Tursynbek - Robustness Threats of Differential Privacy
+- 2021 Boenisch - Gradient Masking and the Underestimated Robustness Threats of Differential Privacy in Deep Learning
+- 2022 Hayes - Trade-offs between membership privacy & adversarially robust learning
 - 2022 ICLR Anon - Practical Adversarial Training with Differential Privacy for Deep Learning
 
 ## Robustness v.s. Fairness based on Utility
