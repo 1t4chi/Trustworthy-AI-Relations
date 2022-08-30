@@ -32,8 +32,6 @@ This is a paper list for relations between trustworthy AI concepts, including
 - Are Accuracy and Robustness Correlated?
 - ICML2020 Understanding and Mitigating the Tradeoff Between Robustness and Accuracy
 - ICML2019 Adversarial Training Can Hurt Generalization
-- A Boundary Tilting Perspective on the Phenomenon of Adversarial Examples
-- PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples
 - The Relationship Between High-Dimensional Geometry and Adversarial Examples
 - CVPR2019 Disentangling Adversarial Robustness and Generalization
 - Robustness and Accuracy Could Be Reconcilable by (Proper) Definition
