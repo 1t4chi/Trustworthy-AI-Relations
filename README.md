@@ -84,9 +84,24 @@ This is a paper list for relations between trustworthy AI concepts, including
 - 2022 Hayes - Trade-offs between membership privacy & adversarially robust learning
 - 2022 ICLR Anon - Practical Adversarial Training with Differential Privacy for Deep Learning
 
+
+
 ## Robustness v.s. Fairness based on Utility
 
+- 2021 ICML Xu - To be Robust or to be Fair: Towards Fairness in Adversarial Training
+- 2020 Chang - On Adversarial Bias and the Robustness of Fair Machine Learning
+- 2022 S&P Sun - Towards Fair and Robust Classification
+- 2020 Sharma - FaiR-N: Fair and Robust Neural Networks for Structured Data
+- 2020 Roh - FR-Train: A Mutual Information-Based Approach to Fair and Robust Training
+
+
 ## Privacy v.s. Fairness based on Utility
+
+- 2021 S&P Chang - On the Privacy Risks of Algorithmic Fairness
+- 2020 FAT Pujol - Fair Decision Making Using Privacy-Protected Data
+- 2020 Xu - Removing Disparate Impact of Differentially Private Stochastic Gradient Descent on Model Accuracy
+- 2021 IJCAI  Fioretto - Decision Making with Differential Privacy under a Fairness Lens
+- 2019 NIPS Bagdasaryan - Differential privacy has disparate impact on model accuracy
 
 
 
