@@ -10,13 +10,12 @@ This is a paper list for relations between trustworthy AI concepts, including
 - ...
 
 ---
-## Pair-wise Relations
 
-### Utility v.s. OOD Generalization
+## Utility v.s. OOD Generalization
 
-### Utility v.s. Adversarial Robustness
+## Utility v.s. Adversarial Robustness
 
-#### Difference between Robustness Generalization & Standard Generalization
+### Difference between Robustness Generalization & Standard Generalization
 - NIPS2018 PAC-learning in the presence of evasion adversaries
 - ICML2019 Rademacher Complexity for Adversarially Robust Generalization
 - NIPS2018 Adversarially Robust Generalization Requires More Data
@@ -24,7 +23,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 - ICML2019 Adversarial Examples from Computational Constraints
 - COLT2019 VC Classes are Adversarially Robustly Learnable, but Only Improperly
 
-#### Tradeoff between Robustness & Utility
+### Tradeoff between Robustness & Utility
 - ECCV2018 Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
 - ICLR2019 Robustness May Be at Odds with Accuracy
 - NIPS2019 Adversarial Examples Are Not Bugs, They Are Features
@@ -44,16 +43,25 @@ This is a paper list for relations between trustworthy AI concepts, including
 - A Closer Look at Accuracy vs. Robustnes
 
 
+## Utility v.s. Privacy
 
-### Utility v.s. Privacy
-
-### Utility v.s. Fairness
-
+## Utility v.s. Fairness
 
 ---
-## Triple-wise Relations
+## OOD Generalization v.s. Adversarial Robustness
 
-### 
+## OOD Generalization v.s. Privacy
+
+## OOD Generalization v.s. Fairness
+
+---
+
+## Robustness v.s. Privacy based on Utility
+
+## Robustness v.s. Fairness based on Utility
+
+## Privacy v.s. Fairness based on Utility
+
 
 
 
