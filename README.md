@@ -59,25 +59,6 @@ This is a paper list for relations between trustworthy AI concepts, including
 ## Robustness v.s. Privacy based on Utility
 ![Summary of Robustness v.s. Privacy](./pic/RvP.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/38658641/187380399-ff69f8ce-92ea-47c6-9d57-95c19f5d132a.png)
-
-
 - 2019 Mejia Robust or Private? Adversarial Training Makes Models More Vulnerable to Privacy Attacks
 - 2019 CCS Song Privacy Risks of Securing Machine Learning Models against Adversarial Examples
 - 2020 He Robustness, Privacy, and Generalization of Adversarial Training
@@ -90,8 +71,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 - 2019 CCS Jia MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples
 - 2019 IJCAI Phan Heterogeneous Gaussian Mechanism: Preserving Differential Privacy in Deep Learning with Provable Robustness
 - 2020 ICML Phan Scalable Differential Privacy with Certified Robustness in Adversarial Learning
-- 2022 ICLR Anon Practical Adversarial Training with Differential Privacy for Deep Learning![image](https://user-images.githubusercontent.com/38658641/187380308-b9e04cea-6d54-4ca0-87f5-6a1b802ecce9.png)
-
+- 2022 ICLR Anon Practical Adversarial Training with Differential Privacy for Deep Learning
 
 ## Robustness v.s. Fairness based on Utility
 
