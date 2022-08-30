@@ -63,7 +63,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 ## OOD Generalization v.s. Fairness
 - 2020 - Fairness and Robustness in Invariant Learning: A Case Study in Toxicity Classification
-- Exchanging Lessons Between Algorithmic Fairness and Domain Generalization
+- 2021 - Exchanging Lessons Between Algorithmic Fairness and Domain Generalization
 
 
 ---
