@@ -61,6 +61,9 @@ This is a paper list for relations between trustworthy AI concepts, including
 - 2021 - The Connection between Out-of-Distribution Generalization and Privacy of ML Models
 
 ## OOD Generalization v.s. Fairness
+- 2020 - Fairness and Robustness in Invariant Learning: A Case Study in Toxicity Classification
+- Exchanging Lessons Between Algorithmic Fairness and Domain Generalization
+
 
 ---
 
