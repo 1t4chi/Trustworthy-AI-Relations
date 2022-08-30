@@ -57,27 +57,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 ---
 
 ## Robustness v.s. Privacy based on Utility
-| Index               | Advsarial Robustness               | Privacy                                          | Relation                                                                              | Theoretical             |
-|---------------------|------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|
-| 2019 Mejia          | Adversarial Training               | Model Inversion                                  | R can hurt P                                                                          | no       |
-| 2019 CCS Song       | Adversarial Training               | Membership Inference                             | R can hurt P                                                                          | no       |
-|                     | Verifiable Defenses                |                                                  |                                                                                       |                         |
-| 2020 He             | Robustified Intensity              | Differential Privacy                             | R can hurt P                                                                          | yes                     |
-|                     | Adversarial Training               |                                                  |                                                                                       |                         |
-| 2022 Hayes          | Adversarial Training               | Membership Inference                             | R has both positive and negtive effects on P                                          | yes                     |
-| 2021 Tursynbek      | Adversarial Example                | Differential Privacy                             | P has both positive and negtive effects on R                                          | no       |
-|                     | Decision Boundary Distance         |                                                  |                                                                                       |                         |
-|                     | Curvature Profile                  |                                                  |                                                                                       |                         |
-| 2021 Boenisch       | Adversarial Example                | Differential Privacy                             | P has both positive and negtive effects on R, positive effect due to gradient masking | no       |
-| 2021 Han            | E-adversarial robustness           | Local Differential Privacy of Federated Learning | P and R are Sufficient and Necessary concepts                                         | yes                     |
-|                     | Adversarial Example                |                                                  | P has both positive and negtive effects on R                                          |                         |
-| 2019 ECM-PKDD Pinot | Generalized Adversarial Robustness | Renyi-Differential Privacy                       | P and R are Sufficient and Necessary concepts                                         | no |
-| 2019 S&P Lecuyer    | Verifiable Defenses                | Pixel-Differential Privacy                       | P methods can transfer to R                                                           | yes                     |
-| 2019 CCS Jia        | Adversarial Example                | Membership Inference                             | R methods can transfer to P                                                           | no                      |
-| 2019 IJCAI Phan     | Verifiable Defenses                | Differential Privacy                             | Methods for both R and P                                                              | yes                     |
-| 2020 ICML Phan      | Verifiable Defenses                | Differential Privacy                             | Methods for both R and P                                                              | yes                     |
-| 2022 ICLR Anon      | Adversarial Training               | Differential Privacy                             | Methods for both R and P                                                              | no                      |
-
+![Summary of Robustness v.s. Privacy](./pic/RvP.png)
 
 ## Robustness v.s. Fairness based on Utility
 
