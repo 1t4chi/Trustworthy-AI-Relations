@@ -12,36 +12,37 @@ This is a paper list for relations between trustworthy AI concepts, including
 ---
 
 ## Utility v.s. OOD Generalization
+- 2020 ICML - Harder or Different? A Closer Look at Distribution Shift in Dataset Reproduction
+- 2021 ICML - Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization
 
 ## Utility v.s. Adversarial Robustness
 
 ### Difference between Robustness Generalization & Standard Generalization
-- NIPS2018 PAC-learning in the presence of evasion adversaries
-- ICML2019 Rademacher Complexity for Adversarially Robust Generalization
-- NIPS2018 Adversarially Robust Generalization Requires More Data
-- ICLR2020 Adversarially Robust Generalization Just Requires More Unlabeled Data
-- ICML2019 Adversarial Examples from Computational Constraints
-- COLT2019 VC Classes are Adversarially Robustly Learnable, but Only Improperly
+- 2018 NIPS - PAC-learning in the presence of evasion adversaries
+- 2019 ICML - Rademacher Complexity for Adversarially Robust Generalization
+- 2018 NIPS - Adversarially Robust Generalization Requires More Data
+- 2020 ICLR - Adversarially Robust Generalization Just Requires More Unlabeled Data
+- 2019 ICML - Adversarial Examples from Computational Constraints
+- 2019 COLT - VC Classes are Adversarially Robustly Learnable, but Only Improperly
 
 ### Tradeoff between Robustness & Utility
-- ECCV2018 Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
-- ICLR2019 Robustness May Be at Odds with Accuracy
-- NIPS2019 Adversarial Examples Are Not Bugs, They Are Features
-- Theoretically Principled Trade-off between Robustness and Accuracy
-- Are Accuracy and Robustness Correlated?
-- ICML2020 Understanding and Mitigating the Tradeoff Between Robustness and Accuracy
-- ICML2019 Adversarial Training Can Hurt Generalization
-- The Relationship Between High-Dimensional Geometry and Adversarial Examples
-- CVPR2019 Disentangling Adversarial Robustness and Generalization
-- Robustness and Accuracy Could Be Reconcilable by (Proper) Definition
-- Towards Deep Learning Models Resistant to Adversarial Attacks
-- ICML2019 Adversarial Training Can Hurt Generalization
-- More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models>
-- UAI2021 The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization
-- Adversarial robustness may be at odds with simplicity
-- 2020 Precise Tradeoffs in Adversarial Training for Linear Regression
-- A Closer Look at Accuracy vs. Robustnes
-
+- 2016 ICMLA - Are Accuracy and Robustness Correlated?
+- 2018 ECCV - Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
+- 2018 ICLR - Towards Deep Learning Models Resistant to Adversarial Attacks
+- 2019 ICLR - Robustness May Be at Odds with Accuracy
+- 2019 NIPS - Adversarial Examples Are Not Bugs, They Are Features
+- 2019 ICML - Theoretically Principled Trade-off between Robustness and Accuracy
+- 2019 ICML - Adversarial Training Can Hurt Generalization
+- 2019 - Adversarial robustness may be at odds with simplicity
+- 2018 Gilmer - The Relationship Between High-Dimensional Geometry and Adversarial Examples
+- 2019 CVPR - Disentangling Adversarial Robustness and Generalization
+- 2019 ICML - Adversarial Training Can Hurt Generalization
+- 2020 ICML - Understanding and Mitigating the Tradeoff Between Robustness and Accuracy
+- 2020 ICML - More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models
+- 2021 UAI - The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization
+- 2020 COLT - Precise Tradeoffs in Adversarial Training for Linear Regression
+- 2020 NIPS - A Closer Look at Accuracy vs. Robustnes
+- 2022 ICML - Robustness and Accuracy Could Be Reconcilable by (Proper) Definition
 
 ## Utility v.s. Privacy
 
@@ -49,6 +50,9 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 ---
 ## OOD Generalization v.s. Adversarial Robustness
+- 2021 ICML Yi - Improved OOD Generalization via Adversarial Training and Pre-training
+- 2022 Gokhale - Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness
+
 
 ## OOD Generalization v.s. Privacy
 
