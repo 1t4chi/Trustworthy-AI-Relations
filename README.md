@@ -27,7 +27,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 ### Tradeoff between Robustness & Utility
 - 2016 ICMLA - Are Accuracy and Robustness Correlated?
-- 2018 ECCV - Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
+- 2018 ECCV - Is Robustness the Cost of Accuracy? A Comprehensive Study on the Robustness of 18 Deep Image Classification Models
 - 2018 ICLR - Towards Deep Learning Models Resistant to Adversarial Attacks
 - 2019 ICLR - Robustness May Be at Odds with Accuracy
 - 2019 NIPS - Adversarial Examples Are Not Bugs, They Are Features
