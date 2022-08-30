@@ -96,14 +96,15 @@ This is a paper list for relations between trustworthy AI concepts, including
 
 
 ## Privacy v.s. Fairness based on Utility
-
-- 2021 S&P Chang - On the Privacy Risks of Algorithmic Fairness
+- Fairness Through Awareness
+- 2019 NIPS Bagdasaryan - Differential privacy has disparate impact on model accuracy
+- 2019 On the Compatibility of Privacy and Fairness
+- 2019 ICML - Differentially Private Fair Learning
 - 2020 FAT Pujol - Fair Decision Making Using Privacy-Protected Data
 - 2020 Xu - Removing Disparate Impact of Differentially Private Stochastic Gradient Descent on Model Accuracy
+- 2021 NIPS - Differentially Private Empirical Risk Minimization under the Fairness Lens
 - 2021 IJCAI  Fioretto - Decision Making with Differential Privacy under a Fairness Lens
-- 2019 NIPS Bagdasaryan - Differential privacy has disparate impact on model accuracy
-
-
-
+- 2021 S&P Chang - On the Privacy Risks of Algorithmic Fairness
+- 2021 AAAI - Improving Fairness and Privacy in Selection Problems
 
 
