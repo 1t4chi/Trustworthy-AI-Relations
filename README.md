@@ -34,7 +34,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 - 2019 NIPS - Adversarial Examples Are Not Bugs, They Are Features
 - 2019 ICML - Theoretically Principled Trade-off between Robustness and Accuracy
 - 2019 ICML - Adversarial Training Can Hurt Generalization
-- 2019 - Adversarial robustness may be at odds with simplicity
+- 2019 Nakkiran - Adversarial robustness may be at odds with simplicity
 - 2019 CVPR - Disentangling Adversarial Robustness and Generalization
 - 2019 ICML - Adversarial Training Can Hurt Generalization
 - 2020 ICML - Understanding and Mitigating the Tradeoff Between Robustness and Accuracy
