@@ -6,7 +6,7 @@ This is a paper list for relations between trustworthy AI concepts, including
 - Adversarial Robustness
 - Privacy
 - Fairness
-- Explainable
+- Interpretability
 - ...
 
 ---
