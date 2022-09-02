@@ -1,6 +1,6 @@
 # A Paper Summary for Relations between Trustworthy AI Concepts
 
-This is a paper list for relations between trustworthy AI concepts, including
+This is a paper summary for relations between trustworthy AI concepts, including
 - Utility (base)
 - OOD Generalization
 - Adversarial Robustness
